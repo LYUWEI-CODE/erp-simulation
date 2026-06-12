@@ -1,0 +1,24 @@
+# Excel 临时文件
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 压缩包
+*.zip
+*.rar
+*.7z
+
+# 备份文件
+*.bak
+*.backup
+*.tmp
